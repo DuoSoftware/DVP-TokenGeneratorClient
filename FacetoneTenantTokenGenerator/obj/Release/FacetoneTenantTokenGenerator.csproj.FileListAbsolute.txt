@@ -1,0 +1,11 @@
+C:\Users\Kalana\Documents\Visual Studio 2013\Projects\FacetoneTenantTokenGenerator\FacetoneTenantTokenGenerator\bin\Release\FacetoneTenantTokenGenerator.exe.config
+C:\Users\Kalana\Documents\Visual Studio 2013\Projects\FacetoneTenantTokenGenerator\FacetoneTenantTokenGenerator\bin\Release\FacetoneTenantTokenGenerator.exe
+C:\Users\Kalana\Documents\Visual Studio 2013\Projects\FacetoneTenantTokenGenerator\FacetoneTenantTokenGenerator\bin\Release\FacetoneTenantTokenGenerator.pdb
+C:\Users\Kalana\Documents\Visual Studio 2013\Projects\FacetoneTenantTokenGenerator\FacetoneTenantTokenGenerator\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\Kalana\Documents\Visual Studio 2013\Projects\FacetoneTenantTokenGenerator\FacetoneTenantTokenGenerator\bin\Release\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\Kalana\Documents\Visual Studio 2013\Projects\FacetoneTenantTokenGenerator\FacetoneTenantTokenGenerator\obj\Release\FacetoneTenantTokenGenerator.csprojFakesResolveAssemblyReference.cache
+C:\Users\Kalana\Documents\Visual Studio 2013\Projects\FacetoneTenantTokenGenerator\FacetoneTenantTokenGenerator\obj\Release\FacetoneTenantTokenGenerator.Form1.resources
+C:\Users\Kalana\Documents\Visual Studio 2013\Projects\FacetoneTenantTokenGenerator\FacetoneTenantTokenGenerator\obj\Release\FacetoneTenantTokenGenerator.Properties.Resources.resources
+C:\Users\Kalana\Documents\Visual Studio 2013\Projects\FacetoneTenantTokenGenerator\FacetoneTenantTokenGenerator\obj\Release\FacetoneTenantTokenGenerator.csproj.GenerateResource.Cache
+C:\Users\Kalana\Documents\Visual Studio 2013\Projects\FacetoneTenantTokenGenerator\FacetoneTenantTokenGenerator\obj\Release\FacetoneTenantTokenGenerator.exe
+C:\Users\Kalana\Documents\Visual Studio 2013\Projects\FacetoneTenantTokenGenerator\FacetoneTenantTokenGenerator\obj\Release\FacetoneTenantTokenGenerator.pdb
